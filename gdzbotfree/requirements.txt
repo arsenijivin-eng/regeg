@@ -1,0 +1,5 @@
+python-telegram-bot>=21.10,<23
+requests>=2.31
+beautifulsoup4>=4.12
+Pillow>=10.0
+pytesseract>=0.3.10
